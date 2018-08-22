@@ -1,3 +1,55 @@
 name: Kelly Huang
 markdown: kramdown
 permalink: /blog/:year/:month/:day/:title
+
+sass:
+  sass_dir: _sass
+  style: compressed
+
+# Resume settings
+resume_avatar:                  "false"
+resume_title:                   "Kelly Huang"
+
+# used for the contact button in _layouts/resume.html
+resume_contact_email:           "yanhuang@alum.mit.edu"
+
+# the next two items are used for schema itemprops in _layouts/resume.html
+resume_contact_telephone:       "401-203-9399"
+
+resume_header_intro: "<p> I'm a data scientist turned product manager.</p>
+
+<p>As a data scientist, I've advocated, measured, and optimizez many advertiser facing product releases: pricing, UX workflows, ad formats, ML-based reporting.
+As a product manager for internal tools, I deeply understand the needs of sales and marketers, working to create solutions to help accomplish their goals.
+</p>
+<p>
+My key skill is the ability to empathize with users and validate through numbers. I am experienced and looking for PM roles in these areas:
+<li>advertising measurement</li>
+<li>sales productivity</li>
+<li>data and reporting</li>
+<li>dynamic pricing</li>
+</p>
+"
+
+# Decide which sections to use
+# comment out to hide
+resume_section_experience:      true
+resume_section_education:       true
+resume_section_projects:        true
+resume_section_skills:          true
+resume_section_interests:       false
+
+# Resume social links
+# uncomment the options you wish to display, and add your own URL
+resume_social_links:
+ #resume_github_url:            "https://github.com/kyh14"
+ resume_twitter_url:           "http://twitter.com/ky_huang"
+ resume_linkedin_url:          "https://www.linkedin.com/in/kellyyh"
+ resume_website_url:           "mailto:yanhuang@alum.mit.edu"
+resume_print_social_links:      true
+
+# Design settings
+resume_theme:                   default
+
+# Note: when editing locally, remember to restart
+# your Jekyll server when you edit this file. Changes
+# to _config.yml are only recognized when the server starts

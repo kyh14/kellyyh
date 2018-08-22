@@ -1,0 +1,11 @@
+<div class="container intro-container">
+  <h3>{{ site.about_title | default: "About Me" }}</h3>
+  <div class="row clearfix">
+      <div class="col-xs-6 col-sm-4 col-md-3">
+        <span class="profile-img" style="background-image: url({{ site.about_profile_image | relative_url }})" />
+      </div>
+      <div class="col-xs-6 col-sm-8 col-md-9">
+      {{ site.about_content | strip | markdownify }}
+      </div>
+  </div>
+</div>

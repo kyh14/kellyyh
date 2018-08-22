@@ -1,5 +1,6 @@
 <!DOCTYPE html>
 <html>
+{% include google_analytics.html %}
 	<head>
 		<title>{{ page.title }}</title>
 
@@ -9,22 +10,19 @@
 
 
 	<body>
-		<nav>
-			<ul>
-				<li><a href="/">home</a></li>
-				<li><a href="/blog">blog</a></li>
-	    	</ul>
-		</nav>
 
 		<div class="container">
+		<nav>
+			<ul>
+        	<li><a href="/">home</a></li>
+        	<li><a href="/blog">writings</a></li>
+        	<li><a href="mailto:yanhuang@alum.mit.com">email</a></li>
+        	<li><a href="/cv">resume</a></li>
+	    	</ul>
+		</nav>
 			{{ content }}
+
 		</div><!-- /.container -->
 
-	  	<footer>
-			<ul>
-				<li><a href="mailto:yanhuang.mit@gmail.com">email</a></li>
-				<li><a href="https://www.linkedin.com/in/kellyyh/">connect</a></li>
-			</ul>
-		</footer>
 	</body>
 </html>

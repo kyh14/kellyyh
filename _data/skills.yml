@@ -1,0 +1,14 @@
+- skill: Machine Learning
+  description: XGBoost, Random Forest, k-means clustering, time-series prediction
+
+- skill: Experimentation
+  description: A/B testing, power analysis, cross-sectional analysis and burn-in curves
+
+- skill: User Research
+  description: conducting focus groups, customer surveys
+
+- skill: Data Analytics
+  description: SQL, Python, Python Pandas, Hive, Presto, Pig, Tableau, Excel, Jupyter notebooks
+
+- skill: Project Planning
+  description: leading sprint planning, strategic reviews, design thinking ideation sessions
