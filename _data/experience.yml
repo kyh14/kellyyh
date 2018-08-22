@@ -1,15 +1,16 @@
 # Jobs
 - company: LinkedIn
-  position: VP of Global Communications
-  duration: Oct, 2013 &mdash; Present
-  summary: Write about your core competencies in one or two sentences describing your position. If you held the position for a long time, it could be a longer section, including a couple bullet points <ul class="resume-item-list"><li>A project you are proud of</li><li>Another awesome project</li><li>or a team or department you worked with</li></ul>
+  position: Data Science Manager
+  duration: Oct, 2015 &mdash; Present
+  summary: Promoted to Sr Data Scientist in 2016, Staff Data Scientist and Manager in 2018<ul class="resume-item-list"><li>Developed with two ads relevance engineers a prototype of an offline model for ads quality, which provided actionable advertiser insights and improved customer satisfaction</li><li>Ensured revenue goals met after the launch of the flagship mobile re-vamp, by working with a team of 10 engineers and three PMs to triage tracking bugs, identify changes to user engagement, and propose changes to relevance model</li><li>Defined a ROI metric for the release of the Conversion Tracking product, presented findings to VPs of business unit, and established metric as a true north metric for the business</li><li>Created internal data product for the sales team to track high potential leads, and be quickly alerted of potential issues with existing customers. Gained 75% penetration in global sales team within first quarter of launch</li><li>Created a LTV model that aligned marketing and sales efforts internally. Interviewed internal marketing, sales, and FPA customers to understand use cases. The model improved accuracy of Sales Ops’ book and quota planning by ~20% and improved Return on Ad Spend assessment by ~15% for Marketing’s acquisition efforts</li><li>Conceived and influenced BU leadership team to conduct the first ever A/B test on the sales org, which measured ROI for new sales programs designed to grow the SMB market</li><li>Owned the strategic plan to create sales data and productivity tools, which secured 3 headcounts for data science team</li></ul>
 
-- company: United Nations Human Rights Council
-  position: Director of Digital Strategy
-  duration:  Jun, 2010 &mdash; Sept, 2013
-  summary: If your stint was shorter, feel free to be brief and just call out the most meaningful points of your role. Be concise, and be meaninful. The person reading just needs enough to want to talk to you more about your experience.
+- company: MoPub, acquired by Twitter
+  position: Lead Exchange Analyst
+  duration:  Oct, 2013 &mdash; Sept, 2015
+  summary: Promoted to Team Lead in 2015<ul class="resume-item-list"><li>Analyzed customer needs for ad inventory management. Developed educational workshops for sales and product marketing. Guided product team to launch a change in auction mechanism, and A/B test automated price floor changes</li><li>Worked cross functionally to launch first combined MoPub and Twitter offering post acquisition, the Twitter Audience Platform, which generated $XXM run rate in the first quarter </li><li>Optimized product performance for the launch of Native Ad Serving and Private Marketplace through KPI tracking and customer interviews</li><li>Managed third-party analytics vendor relationship. Analyzed internal and external clients’ needs, specified changes to the product which increased usage by 3X</li></ul>
 
-- company: Springfield Women & Children's Center
-  position: Communications Coordinator
-  duration:   Jun, 2008  &mdash; May, 2010
-  summary: Led communication efforts across digital and traditional media channels for marketing and public relations, internal communication strategies, and coordinated support programs for the recipients of the center's services.
+- company: The Cambridge Group, subsidiary of Nielsen
+  position: Associate Consultant
+  duration:  Oct, 2011  &mdash; Oct, 2013
+  summary: Promoted to Associate Consultant in 2013<ul class="resume-item-list"><li>Conducted focus groups interviews and implemented customer surveys for major retail company. Created segmentation framework to identify customer needs and pain-points. Presented recommendations to c-suite, which shaped marketing efforts for upcoming holiday season and determined the closing down or renovation of 800 US stores</li><li>Created analysis that identified target customer segment for a major insurance company. Achieved company sign-off. Implementation of model enabled company to execute on 2013 strategy to activate target segment</li></ul>
+
