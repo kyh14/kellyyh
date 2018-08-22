@@ -6,6 +6,9 @@ sass:
   sass_dir: _sass
   style: compressed
 
+url: 'https://kyh14.github.io'
+baseurl: ''
+
 # Resume settings
 resume_avatar:                  "false"
 resume_title:                   "Kelly Huang"
